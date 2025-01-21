@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "flaticon_reland";
+    src: url("../fonts/flaticon_reland.eot");
+    src: url("../fonts/flaticon_relandd41d.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/flaticon_reland.woff2") format("woff2"),
+    url("../fonts/flaticon_reland.woff") format("woff"),
+    url("../fonts/flaticon_reland.ttf") format("truetype"),
+    url("../fonts/flaticon_reland.svg#flaticon_reland") format("svg");
+}
+
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_reland !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-001-sofa:before {
+    content: "\f101";
+}
+.flaticon-002-plants:before {
+    content: "\f102";
+}
+.flaticon-003-chandelier:before {
+    content: "\f103";
+}
+.flaticon-004-headset:before {
+    content: "\f104";
+}
+.flaticon-005-leader:before {
+    content: "\f105";
+}
+.flaticon-006-shield:before {
+    content: "\f106";
+}
+.flaticon-007-left-quotes-sign:before {
+    content: "\f107";
+}
+.flaticon-008-money-bag:before {
+    content: "\f108";
+}
+.flaticon-009-crane-truck:before {
+    content: "\f109";
+}
+.flaticon-010-pdf:before {
+    content: "\f10a";
+}
+.flaticon-011-cctv:before {
+    content: "\f10b";
+}
+.flaticon-012-trees:before {
+    content: "\f10c";
+}
+.flaticon-013-fire-extinguisher:before {
+    content: "\f10d";
+}
+.flaticon-014-security:before {
+    content: "\f10e";
+}
+.flaticon-015-playground:before {
+    content: "\f10f";
+}
+.flaticon-016-puzzle:before {
+    content: "\f110";
+}
+.flaticon-017-apartment:before {
+    content: "\f111";
+}
+.flaticon-018-rescale:before {
+    content: "\f112";
+}
