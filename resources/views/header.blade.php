@@ -13,33 +13,42 @@
                             </div>
                             <div class="navbar-wrap main-menu d-none d-lg-flex">
                                 <ul class="navigation">
-                                    <li class="active menu-">
+                                    <li class="menu {{ request()->routeIs('welcome') ? 'active' : '' }}">
                                         <a href="{{ route('welcome') }}">Home</a>
                                     </li>
 
-                                    <li class="menu ">
+                                    <li class="menu {{ request()->routeIs('about-us') ? 'active' : '' }}">
                                         <a href="{{ route('about-us') }}">About</a>
                                     </li>
-                                    <li class="menu ">
+
+                                    <li class="menu {{ request()->routeIs('propertie') ? 'active' : '' }}">
                                         <a href="{{ route('propertie') }}">Properties</a>
                                     </li>
-                                    <li class="menu ">
+
+                                    <li class="menu {{ request()->routeIs('our-services') ? 'active' : '' }}">
                                         <a href="{{ route('our-services') }}">Services</a>
                                     </li>
 
-                                    <li class="menu ">
+                                    <li class="menu {{ request()->routeIs('contact-us') ? 'active' : '' }}">
                                         <a href="{{ route('contact-us') }}">Contact</a>
                                     </li>
                                 </ul>
                             </div>
+
                             <div class="header-action">
                                 <ul class="list-wrap">
                                     <li class="header-social">
                                         <ul class="list-wrap">
-                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                            <li><a href="https://www.facebook.com/share/1AyWdFmbZt/"><i
+                                                        class="fab fa-facebook-f"></i></a></li>
+                                            <li><a href="https://www.instagram.com/imani_elite_realty/"><i
+                                                        class="fab fa-instagram"></i></a></li>
+                                            <li><a href="https://x.com/Imani_Elite?t=tDGor13BVsDvqiuLbs7FbQ&s=09"><i
+                                                        class="fab fa-twitter"></i></a></li>
+                                            <li><a
+                                                    href="https://www.tiktok.com/@imani_elite_realty?_t=ZM-8tGoftH7BJ7&_r=1"><i
+                                                        class="fab fa-tiktok"></i></a></li>
+
                                         </ul>
                                     </li>
                                     <li class="header-contact">
@@ -63,11 +72,14 @@
                             </div>
                             <div class="social-links">
                                 <ul class="clearfix list-wrap">
-                                    <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                    <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                                    <li><a href="https://www.facebook.com/share/1AyWdFmbZt/"><i
+                                                class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href="https://www.instagram.com/imani_elite_realty/"><i
+                                                class="fab fa-instagram"></i></a></li>
+                                    <li><a href="https://x.com/Imani_Elite?t=tDGor13BVsDvqiuLbs7FbQ&s=09"><i
+                                                class="fab fa-twitter"></i></a></li>
+                                    <li><a href="https://www.tiktok.com/@imani_elite_realty?_t=ZM-8tGoftH7BJ7&_r=1"><i
+                                                class="fab fa-tiktok"></i></a></li>
                                 </ul>
                             </div>
                         </nav>

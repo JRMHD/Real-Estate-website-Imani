@@ -185,10 +185,15 @@
 
                         <div class="footer-social">
                             <ul class="list-wrap">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://www.facebook.com/share/1AyWdFmbZt/"><i
+                                            class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="https://www.instagram.com/imani_elite_realty/"><i
+                                            class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://x.com/Imani_Elite?t=tDGor13BVsDvqiuLbs7FbQ&s=09"><i
+                                            class="fab fa-twitter"></i></a></li>
+                                <li><a href="https://www.tiktok.com/@imani_elite_realty?_t=ZM-8tGoftH7BJ7&_r=1"><i
+                                            class="fab fa-tiktok"></i></a></li>
+
                             </ul>
                         </div>
                     </div>
