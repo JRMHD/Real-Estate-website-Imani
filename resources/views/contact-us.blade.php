@@ -144,13 +144,14 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12 col-md-12 col-sm-12">
                         <div class="contact-info-item">
-                            <span class="sub-title">Main office</span>
-                            <h2 class="title">Westlands , Lower kabete,
+                            <span class="sub-title" style="font-size: 25px;">Main office</span>
+                            <h2 class="title" style="font-size: 25px;">Lower kabete road, westlands district 7th floor
                                 Nairobi, Kenya</h2>
-                            <ul class="list-wrap">
-                                <li> <a href="mailto:nyamatufaith@gmail.com">nyamatufaith@gmail.com</a></li>
-                                <li><a href="tel:254 717 646244">+254 717 646244</a></li>
-                                <li><a href="tel:254 736 848244">+254 736 848244</a></li>
+                            <ul class="list-wrap" style="font-size: 25px;">
+                                <li><a href="mailto:info@imanielite.com"
+                                        style="font-size: 25px;">info@imanielite.com</a></li>
+                                <li><a href="tel:254 717 646244" style="font-size: 25px;">+254 717 646244</a></li>
+                                <li><a href="tel:254 736 848244" style="font-size: 25px;">+254 736 848244</a></li>
                             </ul>
                         </div>
                     </div>

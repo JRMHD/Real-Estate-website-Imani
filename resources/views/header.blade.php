@@ -48,7 +48,12 @@
                                             <li><a
                                                     href="https://www.tiktok.com/@imani_elite_realty?_t=ZM-8tGoftH7BJ7&_r=1"><i
                                                         class="fab fa-tiktok"></i></a></li>
-
+                                            <li><a href="https://youtube.com/@imani_elite_realty?si=CYndyTu3XyZfLU18"><i
+                                                        class="fab fa-youtube"></i></a></li>
+                                            <li><a href="https://wa.me/message/EMGD43LH5IS4H1"><i
+                                                        class="fab fa-whatsapp"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/in/imani-elite-realty"><i
+                                                        class="fab fa-linkedin-in"></i></a></li>
                                         </ul>
                                     </li>
                                     <li class="header-contact">
@@ -69,19 +74,24 @@
                             </div>
                             <div class="menu-outer">
 
-                            </div>
-                            <div class="social-links">
-                                <ul class="clearfix list-wrap">
-                                    <li><a href="https://www.facebook.com/share/1AyWdFmbZt/"><i
-                                                class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="https://www.instagram.com/imani_elite_realty/"><i
-                                                class="fab fa-instagram"></i></a></li>
-                                    <li><a href="https://x.com/Imani_Elite?t=tDGor13BVsDvqiuLbs7FbQ&s=09"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li><a href="https://www.tiktok.com/@imani_elite_realty?_t=ZM-8tGoftH7BJ7&_r=1"><i
-                                                class="fab fa-tiktok"></i></a></li>
-                                </ul>
-                            </div>
+
+                                <div class="footer-social">
+                                    <ul class="list-wrap">
+                                        <li><a href="https://www.facebook.com/share/1AyWdFmbZt/"><i
+                                                    class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.instagram.com/imani_elite_realty/"><i
+                                                    class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://x.com/Imani_Elite?t=tDGor13BVsDvqiuLbs7FbQ&s=09"><i
+                                                    class="fab fa-twitter"></i></a></li>
+                                        <li><a href="https://www.tiktok.com/@imani_elite_realty?_t=ZM-8tGoftH7BJ7&_r=1"><i
+                                                    class="fab fa-tiktok"></i></a></li>
+                                        <li><a href="https://youtube.com/@imani_elite_realty?si=CYndyTu3XyZfLU18"><i
+                                                    class="fab fa-youtube"></i></a></li>
+                                        <li><a href="https://wa.me/message/EMGD43LH5IS4H1"><i
+                                                    class="fab fa-whatsapp"></i></a></li>
+                                       
+                                    </ul>
+                                </div>
                         </nav>
                     </div>
                     <div class="menu-backdrop"></div>

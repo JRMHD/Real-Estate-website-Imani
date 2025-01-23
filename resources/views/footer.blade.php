@@ -12,28 +12,31 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-sm-7">
+                    <div class="col-xl-3 col-md-4 col-sm-7" style="font-size: 30px;">
                         <div class="footer-widget">
-                            <h2 class="fw-title">Contact</h2>
-                            <div class="footer-contact">
-                                <p>Westlands , Lower kabete,<br> Nairobi, Kenya</p>
-                                <ul class="list-wrap">
-                                    <li><a href="mailto:nyamatufaith@gmail.com">nyamatufaith@gmail.com</a></li>
-                                    <li><a href="tel:254 717 646244">+254 717 646244</a></li>
-                                    <li><a href="tel:254 736 848244">+254 736 848244</a></li>
+                            <h2 class="fw-title" style="font-size: 25px;">Contact</h2>
+                            <div class="footer-contact" style="font-size: 25px;">
+                                <p style="font-size: 25px;">Lower kabete road, westlands district 7th floor<br> Nairobi,
+                                    Kenya</p>
+                                <ul class="list-wrap" style="font-size: 25px;">
+                                    <li><a href="mailto:info@imanielite.com"
+                                            style="font-size: 25px;">info@imanielite.com</a></li>
+                                    <li><a href="tel:254 717 646244" style="font-size: 25px;">+254 717 646244</a></li>
+                                    <li><a href="tel:254 736 848244" style="font-size: 25px;">+254 736 848244</a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-3 col-md-4 col-sm-5">
+                    <div class="col-xl-3 col-md-4 col-sm-5" style="font-size: 30px;">
                         <div class="footer-widget">
-                            <h2 class="fw-title">Useful links</h2>
+                            <h2 class="fw-title" style="font-size: 25px;">Useful links</h2>
                             <div class="footer-link">
-                                <ul class="list-wrap">
-                                    <li><a href="{{ route('about-us') }}">About Us</a></li>
-                                    <li><a href="{{ route('faqs') }}">Terms & Conditions</a></li>
-                                    <li><a href="{{ route('faqs') }}">FAQs</a></li>
-                                    <li><a href="{{ route('our-services') }}">Services</a></li>
+                                <ul class="list-wrap" style="font-size: 25px;">
+                                    <li><a href="{{ route('about-us') }}" style="font-size: 25px;">About Us</a></li>
+                                    <li><a href="{{ route('faqs') }}" style="font-size: 25px;">Terms & Conditions</a>
+                                    </li>
+                                    <li><a href="{{ route('faqs') }}" style="font-size: 25px;">FAQs</a></li>
+                                    <li><a href="{{ route('our-services') }}" style="font-size: 25px;">Services</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -193,7 +196,12 @@
                                             class="fab fa-twitter"></i></a></li>
                                 <li><a href="https://www.tiktok.com/@imani_elite_realty?_t=ZM-8tGoftH7BJ7&_r=1"><i
                                             class="fab fa-tiktok"></i></a></li>
-
+                                <li><a href="https://youtube.com/@imani_elite_realty?si=CYndyTu3XyZfLU18"><i
+                                            class="fab fa-youtube"></i></a></li>
+                                <li><a href="https://wa.me/message/EMGD43LH5IS4H1"><i class="fab fa-whatsapp"></i></a>
+                                </li>
+                                <li><a href="https://www.linkedin.com/in/imani-elite-realty"><i
+                                            class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
                     </div>

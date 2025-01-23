@@ -36,3 +36,8 @@ require __DIR__ . '/auth.php';
 Route::post('/inquiry', [InquiryController::class, 'store'])->name('inquiry.store');
 Route::post('/contact', [ContactController::class, 'store'])->name('contact.store');
 Route::post('/subscribe', [SubscriptionController::class, 'subscribe'])->name('newsletter.subscribe');
+Route::view('/bedroom-luxury-apartment', 'luxury4bed')->name('bedroom-luxury-apartment');
+Route::view('/bedroom-luxury-2bed-apartment', 'luxury2bed')->name('bedroom-luxury-2bed-apartment');
+Route::view('/luxury-4-bedroom-apartment', 'luxury4bedsq')->name('luxury-4-bedroom-apartment');
+Route::view('/gikambura-kikuyu', 'gikamburakikuyu')->name('gikambura-kikuyu');
+Route::view('/pricing-breakdown', 'Breakdownpricing')->name('pricing-breakdown');

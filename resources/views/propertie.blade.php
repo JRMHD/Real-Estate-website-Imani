@@ -144,178 +144,134 @@
             wire:id="DmIDC7hPEPqOAXuVqv3Z">
             <section class="inner-project-area project-style-two section-pb-140">
                 <div class="container custom-container">
-                    {{-- <div class="project-top-meta mb-50">
-                        <form wire:submit.preven="render">
-                            <div class="row">
-                                <div class="col-xl-3">
-                                    <div class="form-grp">
-                                        <input type="text" wire:model.live.debounce.500ms="title"
-                                            placeholder="Search by project name...">
-                                        <button type="submit"><i class="fas fa-search"></i></button>
-                                    </div>
-                                </div>
-                                <div class="col-xl-6">
-                                    <div class="row">
-                                        <div class="col-md-4">
-                                            <div class="form-grp select">
-                                                <select id="houseType" wire:model.live="houseType" name="select"
-                                                    class="form-select" aria-label="Default select example">
-                                                    <option value="all">All House Types</option>
-                                                    <!--[if BLOCK]><![endif]-->
-                                                    <option value="5">Apartment</option>
-                                                    <option value="6">Townhouse</option>
-                                                    <option value="7">Stand-alone</option>
-                                                    <option value="8">Apartment Duplex</option>
-                                                    <option value="9">Bungalow</option>
-                                                    <option value="10">Penthouse</option>
-                                                    <option value="11">Land</option>
-                                                    <!--[if ENDBLOCK]><![endif]-->
-
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <div class="form-grp select">
-                                                <select id="saleType" name="select" class="form-select"
-                                                    wire:model.live="saleType" aria-label="Default select example">
-                                                    <option value="all">All Sale Types</option>
-                                                    <!--[if BLOCK]><![endif]-->
-                                                    <option value="4">Rent</option>
-                                                    <option value="5">Sale</option>
-                                                    <option value="7">Furnished</option>
-                                                    <!--[if ENDBLOCK]><![endif]-->
-                                                </select>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4">
-                                            <div class="form-grp select">
-                                                <select id="city" name="select" class="form-select"
-                                                    wire:model.live="city" aria-label="Default select example">
-                                                    <option value="all">All Locations</option>
-                                                    <!--[if BLOCK]><![endif]-->
-                                                    <option value="64802">Kiambu</option>
-                                                    <option value="64823">Machakos</option>
-                                                    <option value="64845">Nairobi</option>
-                                                    <option value="123871">Parkland</option>
-                                                    <option value="125201">Riverside</option>
-                                                    <option value="146225">Lavington</option>
-                                                    <option value="146226">Westlands</option>
-                                                    <option value="146227">Kileleshwa</option>
-                                                    <option value="146228">Kilimani</option>
-                                                    <option value="146229">Loresho</option>
-                                                    <option value="146231">Eastern Bypass
-                                                    </option>
-                                                    <option value="146232">Karen</option>
-                                                    <!--[if ENDBLOCK]><![endif]-->
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3">
-                                    <button type="button" class="btn" wire:click="resetFilters">Reset <i
-                                            class="fas fa-refresh"></i></button>
-                                </div>
-                            </div>
-                        </form>
-                    </div> --}}
                     <div class="project-item-wrap">
                         <div class="row justify-content-center">
-                            <!-- Property 1: Westlands Area -->
+
+                            <!-- Property 1: Kileleshwa Luxury Apartment -->
                             <div class="col-xl-3 col-lg-4 col-md-6">
-                                <div class="project-item">
+                                <div class="project-item" style="font-size: 20px;">
                                     <div class="project-thumb">
-                                        <a href="/our-services">
-                                            <img src="\Images\Modern Apartments.jpg" alt="Westlands Apartment">
+                                        <a href="/bedroom-luxury-apartment">
+                                            <img src="\Images\unit 1.jpg" alt="4-Bedroom Luxury Apartment">
                                         </a>
                                     </div>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="/our-services">Modern
-                                                Apartment in Westlands</a></h3>
-                                        <span>Westlands</span>
-                                        <p>Discover a selection of modern apartments in the vibrant Westlands area,
-                                            perfect for both young professionals and families.</p>
+                                        <h3 class="title" style="font-size: 20px;"><a
+                                                href="/bedroom-luxury-apartment">4-Bedroom
+                                                Luxury Apartment + DSQ in Kileleshwa – Ksh 22M</a></h3>
+                                        <span style="font-size: 20px;">Kileleshwa</span>
+                                        <p style="font-size: 20px;">Discover a haven of luxury and comfort in the heart
+                                            of Kileleshwa. This spacious 4-bedroom apartment (complete with a DSQ) is
+                                            thoughtfully designed for modern living and offers an unparalleled blend of
+                                            style, convenience, and tranquility.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- Property 2: Loresho Area -->
+                            <!-- Property 2: 2-Bedroom Apartments in Lavington -->
                             <div class="col-xl-3 col-lg-4 col-md-6">
-                                <div class="project-item">
+                                <div class="project-item" style="font-size: 20px;">
                                     <div class="project-thumb">
-                                        <a href="/our-services">
-                                            <img src="\Images\property1.jpg" alt="Townhouse in Loresho">
+                                        <a href="/bedroom-luxury-2bed-apartment">
+                                            <img src="\Images\unit 2.jpg" alt="2-Bedroom Apartments in Lavington">
                                         </a>
                                     </div>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="/our-services">Spacious
-                                                Townhouse in Loresho</a></h3>
-                                        <span>Loresho</span>
-                                        <p>Explore a variety of spacious townhouses available in the serene Loresho
-                                            area, ideal for those seeking a quiet yet accessible location.</p>
+                                        <h3 class="title" style="font-size: 20px;"><a
+                                                href="/bedroom-luxury-2bed-apartment">2-Bedroom
+                                                Apartments – Ksh 11M</a></h3>
+                                        <span style="font-size: 20px;">Lavington</span>
+                                        <p style="font-size: 20px;">Type: Approximately 100 sqm, 2-bedroom unit<br>
+                                            Price: 11 million</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- Property 3: Kileleshwa Area -->
+                            <!-- Property 3: Luxurious Living in Kileleshwa -->
                             <div class="col-xl-3 col-lg-4 col-md-6">
-                                <div class="project-item">
+                                <div class="project-item" style="font-size: 20px;">
                                     <div class="project-thumb">
-                                        <a href="/our-services">
-                                            <img src="\Images\propety2.jpg" alt="Property in Kileleshwa">
+                                        <a href="/luxury-4-bedroom-apartment">
+                                            <img src="\Images\unit 3.jpg" alt="Luxurious Living in Kileleshwa">
                                         </a>
                                     </div>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="/our-services">Prime
-                                                Property in Kileleshwa</a></h3>
-                                        <span>Kileleshwa</span>
-                                        <p>Find your dream property in the upscale Kileleshwa area, featuring a range of
-                                            elegant homes in a well-established, sought-after neighborhood.</p>
+                                        <h3 class="title" style="font-size: 20px;"><a
+                                                href="/luxury-4-bedroom-apartment">Luxurious
+                                                Living in the Heart of Kileleshwa</a></h3>
+                                        <span style="font-size: 20px;">Kileleshwa</span>
+                                        <p style="font-size: 20px;">Discover an exclusive residential haven featuring
+                                            4-bedroom apartments with a servant’s quarter (SQ). Thoughtfully designed,
+                                            each unit spans 270 sqm, offering spacious living in a serene and secure
+                                            environment.</p>
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- Property 4: Kilimani Area -->
+                            <!-- Property 4: Townhome in Gikambura -->
                             <div class="col-xl-3 col-lg-4 col-md-6">
-                                <div class="project-item">
+                                <div class="project-item" style="font-size: 20px;">
                                     <div class="project-thumb">
-                                        <a href="/our-services">
-                                            <img src="\Images\prop[erty3.jpg" alt="Apartment in Kilimani">
+                                        <a href="/gikambura-kikuyus">
+                                            <img src="\Images\unit 5.jpg" alt="4-Bedroom Townhome in Gikambura">
                                         </a>
                                     </div>
                                     <div class="project-content">
-                                        <h3 class="title"><a href="/our-services">Fully
-                                                Furnished Apartment in Kilimani</a></h3>
-                                        <span>Kilimani</span>
-                                        <p>Explore fully furnished apartments in the heart of Kilimani, providing
-                                            ultimate convenience and comfort for your lifestyle.</p>
+                                        <h3 class="title" style="font-size: 20px;"><a href="/gikambura-kikuyu">For
+                                                Sale
+                                                - Gikambura Kikuyu</a></h3>
+                                        <span style="font-size: 20px;">Gikambura</span>
+                                        <p style="font-size: 20px;">Discover Your Dream Home in Gikambura – Where
+                                            Elegance Meets Serenity<br>
+                                            4-Bedroom Townhome | 380 sqm of Luxury Living | Under Construction</p>
                                     </div>
                                 </div>
                             </div>
+
+                            <!-- Property 5: Pricing and Payment Terms -->
+                            <div class="col-xl-3 col-lg-4 col-md-6">
+                                <div class="project-item" style="font-size: 20px;">
+                                    <div class="project-thumb">
+                                        <a href="/pricing-breakdown">
+                                            <img src="\Images\unit 4.jpg" alt="Pricing and Payment Terms">
+                                        </a>
+                                    </div>
+                                    <div class="project-content">
+                                        <h3 class="title" style="font-size: 20px;"><a
+                                                href="/pricing-breakdown">Pricing
+                                                and Payment Terms</a></h3>
+                                        <span style="font-size: 20px;">Kileleshwa</span>
+                                        <p style="font-size: 20px;">Here’s the breakdown of the pricing and payment
+                                            terms for the property:<br>
+                                            Buying Price: Ksh 22 million<br>
+                                            20% Deposit: Ksh 4.4 million</p>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
-                </div>
-        </div>
-        <div>
-            <nav role="navigation" aria-label="Pagination Navigation" class="flex justify-between">
-                <span>
 
-                    <span
-                        class="relative inline-flex items-center px-4 py-2 text-sm font-medium text-gray-500 bg-white border border-gray-300 cursor-default leading-5 rounded-md select-none">
-                        &laquo; Previous
-                    </span>
-                </span>
-                <span>
+                    {{-- <div>
+                        <nav role="navigation" aria-label="Pagination Navigation" class="flex justify-between">
+                            <span>
 
-                    <button type="button" wire:click="nextPage('page')"
-                        x-on:click="   ($el.closest(&#039;body&#039;) || document.querySelector(&#039;body&#039;)).scrollIntoView()"
-                        wire:loading.attr="disabled" dusk="nextPage"
-                        class="relative inline-flex items-center px-4 py-2 ml-3 text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-500 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150">
-                        Next &raquo;
-                    </button>
-                </span>
-            </nav>
-        </div>
+                                <span
+                                    class="relative inline-flex items-center px-4 py-2 text-sm font-medium text-gray-500 bg-white border border-gray-300 cursor-default leading-5 rounded-md select-none">
+                                    &laquo; Previous
+                                </span>
+                            </span>
+                            <span>
+
+                                <button type="button" wire:click="nextPage('page')"
+                                    x-on:click="   ($el.closest(&#039;body&#039;) || document.querySelector(&#039;body&#039;)).scrollIntoView()"
+                                    wire:loading.attr="disabled" dusk="nextPage"
+                                    class="relative inline-flex items-center px-4 py-2 ml-3 text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-500 focus:outline-none focus:shadow-outline-blue focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150">
+                                    Next &raquo;
+                                </button>
+                            </span>
+                        </nav>
+                    </div> --}}
 
     </main>
     <!-- main-area-end -->

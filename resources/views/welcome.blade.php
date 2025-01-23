@@ -102,12 +102,12 @@
                                 <div class="banner-content text-center">
                                     <h2 class="title" data-animation="fadeInUp" data-delay=".2s">Imani Elite Realty
                                     </h2>
-                                    <p data-animation="fadeInUp" data-delay=".4s">
+                                    <p style="font-size: 20px; animation: fadeInUp; animation-delay: .4s;">
                                         Nairobi's trusted real estate company with over a decade of expertise.
-                                        Specializing in buying, selling,
-                                        and leasing properties, we simplify your property journey with professionalism
-                                        and care.
+                                        Specializing in buying, selling, and leasing properties, we simplify your
+                                        property journey with professionalism and care.
                                     </p>
+
                                     <a href="/about-us" class="btn" data-animation="fadeInUp" data-delay=".6s">
                                         <div class="btn_m">
                                             <div class="btn_c">
@@ -131,12 +131,13 @@
                                 <div class="banner-content text-center">
                                     <h2 class="title" data-animation="fadeInUp" data-delay=".2s">Welcome to Imani
                                         Elite Realty</h2>
-                                    <p data-animation="fadeInUp" data-delay=".4s">
+                                    <p style="font-size: 20px; animation: fadeInUp; animation-delay: .4s;">
                                         With over a decade of experience, we specialize in buying, selling, and leasing
                                         properties.
                                         Whether in Nairobi or Dubai, we ensure a seamless and professional real estate
                                         experience.
                                     </p>
+
                                     <a href="/about-us" class="btn" data-animation="fadeInUp" data-delay=".6s">
                                         <div class="btn_m">
                                             <div class="btn_c">
@@ -172,7 +173,7 @@
                             <h2 class="title">Expertise, Confidence, and Assurance in Real Estate</h2>
                         </div>
                         <div class="about-content text-center">
-                            <p>
+                            <p style="font-size: 25px;">
                                 For over a decade, Imani Elite Realty has been empowering clients to find their ideal
                                 properties.
                                 With meticulous attention to detail and a commitment to excellence, we provide a
@@ -183,6 +184,7 @@
                                 built on
                                 trust and professionalism.
                             </p>
+
                             <a href="/about-us" class="btn transparent-btn">
                                 <div class="btn_m">
                                     <div class="btn_c">
@@ -206,7 +208,7 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="video-bg wow fadeInUp" data-wow-delay=".2s">
-                            <a href="https://www.youtube.com/watch?v=zSGnjq-xrVw" class="popup-video play-btn"><i
+                            <a href="https://www.youtube.com/shorts/9sPwiUCFAhM" class="popup-video play-btn"><i
                                     class="fab fa-youtube"></i></a>
                         </div>
                     </div>
@@ -237,13 +239,13 @@
 
                             <div class="services-content">
                                 <h2 class="title"><a href="#">Buy</a></h2>
-                                <p>
+                                <p style="font-size: 25px;">
                                     Discover properties tailored to your preferences. From modern apartments to
                                     luxurious homes,
                                     we provide a curated portfolio that ensures a seamless buying experience from
-                                    selection
-                                    to closing.
+                                    selection to closing.
                                 </p>
+
                                 <a href="/our-services" class="text-btn">Learn More</a>
                             </div>
                         </div>
@@ -258,7 +260,7 @@
 
                             <div class="services-content">
                                 <h2 class="title"><a href="#">Rent</a></h2>
-                                <p>
+                                <p style="font-size: 25px;">
                                     Find the perfect rental home in Nairobi. From stylish apartments to serene houses,
                                     we connect you with exceptional options that blend comfort, convenience, and
                                     quality.
@@ -277,7 +279,7 @@
 
                             <div class="services-content">
                                 <h2 class="title"><a href="#">Lease</a></h2>
-                                <p>
+                                <p style="font-size: 25px;">
                                     Enjoy flexible leasing options for short-term or long-term stays. Our fully
                                     furnished,
                                     ready-to-move-in properties offer the perfect combination of comfort, style, and
@@ -310,14 +312,13 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="#"><img src="\Images\Premium Residential Living.jpg"
-                                            alt="Property 1"></a>
+                                    <a href="#"><img src="\Images\brak3.jpg" alt="Property 1"></a>
                                 </div>
                                 <div class="project-content">
                                     <h3 class="title">
-                                        <a href="/our-services">Premium Residential Living</a>
+                                        <a href="/propertie">Premium Residential Living</a>
                                     </h3>
-                                    <span>Westlands, Nairobi</span>
+                                    <span>Kileleshwa, Nairobi</span>
                                 </div>
                             </div>
                         </div>
@@ -325,11 +326,11 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="#"><img src="\Images\Modern Apartments.jpg" alt="Property 2"></a>
+                                    <a href="#"><img src="\Images\gik3.jpg" alt="Property 2"></a>
                                 </div>
                                 <div class="project-content">
                                     <h3 class="title">
-                                        <a href="/our-services">Modern Apartments</a>
+                                        <a href="/propertie">Modern Apartments</a>
                                     </h3>
                                     <span>Nairobi</span>
                                 </div>
@@ -339,14 +340,13 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="#"><img src="\Images\Upscale Urban Spaces.jpg"
-                                            alt="Property 3"></a>
+                                    <a href="#"><img src="\Images\dsq4bed3.jpg" alt="Property 3"></a>
                                 </div>
                                 <div class="project-content">
                                     <h3 class="title">
-                                        <a href="/our-services">Upscale Urban Spaces</a>
+                                        <a href="/propertie">Upscale Urban Spaces</a>
                                     </h3>
-                                    <span>Westlands, Nairobi</span>
+                                    <span>Kileleshwa, Nairobi</span>
                                 </div>
                             </div>
                         </div>
@@ -354,13 +354,13 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="project-item">
                                 <div class="project-thumb">
-                                    <a href="#"><img src="\Images\Luxury Residences.jpg" alt="Property 4"></a>
+                                    <a href="#"><img src="\Images\gik4.jpg" alt="Property 4"></a>
                                 </div>
                                 <div class="project-content">
                                     <h3 class="title">
-                                        <a href="/our-services">Luxury Residences</a>
+                                        <a href="/propertie">Luxury Residences</a>
                                     </h3>
-                                    <span>Westlands, Nairobi</span>
+                                    <span>Kileleshwa, Nairobi</span>
                                 </div>
                             </div>
                         </div>

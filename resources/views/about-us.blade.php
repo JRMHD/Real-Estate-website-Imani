@@ -157,7 +157,7 @@
                                     A DECADE OF EXPERTISE, CONFIDENCE, AND ASSURANCE IN REAL ESTATE
                                 </h2>
                             </div>
-                            <p>
+                            <p style="font-size: 25px;">
                                 Imani Elite Realty is a Nairobi-based real estate company with over a decade of
                                 expertise in the property market. We specialize in buying, selling, and leasing
                                 residential and commercial properties, offering clients a seamless and professional

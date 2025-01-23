@@ -158,7 +158,8 @@
                             </div>
                             <div class="services-content">
                                 <h2 class="title"><a href="#">Property Purchase</a></h2>
-                                <p>Helping you acquire properties tailored to your preferences. Explore our carefully
+                                <p style="font-size: 25px;">Helping you acquire properties tailored to your
+                                    preferences. Explore our carefully
                                     curated selection of residential and commercial properties, from selection to
                                     closing, ensuring a seamless experience throughout the process.</p>
                                 <a href="/contact-us" class="text-btn">Learn more</a>
@@ -174,7 +175,8 @@
                             </div>
                             <div class="services-content">
                                 <h2 class="title"><a href="#">Rentals</a></h2>
-                                <p>Looking for the perfect rental? We assist in finding homes that meet your needs,
+                                <p style="font-size: 25px;">Looking for the perfect rental? We assist in finding homes
+                                    that meet your needs,
                                     whether you're looking for apartments or houses in Nairobi. Your ideal rental is
                                     just a click away!</p>
                                 <a href="/contact-us" class="text-btn">Learn more</a>
@@ -190,7 +192,8 @@
                             </div>
                             <div class="services-content">
                                 <h2 class="title"><a href="#">Leasing</a></h2>
-                                <p>Discover flexible leasing options for both short-term and long-term needs. Whether
+                                <p style="font-size: 25px;">Discover flexible leasing options for both short-term and
+                                    long-term needs. Whether
                                     you are looking for fully furnished, ready-to-move-in properties, or seeking comfort
                                     and convenience, we have the perfect options for you.</p>
                                 <a href="/contact-us" class="text-btn">Learn more</a>
@@ -210,8 +213,8 @@
                     <div class="col-12">
                         <div class="video-bg">
 
-                            <a href="https://www.youtube.com/watch?v=zSGnjq-xrVw" class="popup-video play-btn"><i
-                                    class="fab fa-youtube"></i></a>
+                            <a href="https://youtube.com/@imani_elite_realty?si=CYndyTu3XyZfLU18"
+                                class="popup-video play-btn"><i class="fab fa-youtube"></i></a>
                         </div>
                     </div>
                 </div>
@@ -231,7 +234,8 @@
                             </div>
                             <div class="feature-content">
                                 <h2 class="title">Property Valuation</h2>
-                                <p>Get accurate property valuations tailored to your needs. Our experts analyze market
+                                <p style="font-size: 25px;">Get accurate property valuations tailored to your needs.
+                                    Our experts analyze market
                                     trends and property specifics to ensure you have a clear and precise value for your
                                     property, helping you make informed decisions.</p>
                             </div>
@@ -245,7 +249,8 @@
                             </div>
                             <div class="feature-content">
                                 <h2 class="title">Listing Homes</h2>
-                                <p>Let us help you showcase your property’s true potential. With our tailored listing
+                                <p style="font-size: 25px;">Let us help you showcase your property’s true potential.
+                                    With our tailored listing
                                     services, we’ll advertise your property effectively to attract the right buyers,
                                     ensuring a swift and successful transaction.</p>
                             </div>
@@ -259,7 +264,8 @@
                             </div>
                             <div class="feature-content">
                                 <h2 class="title">Marketing Properties</h2>
-                                <p>Maximize exposure for your property. Our innovative marketing strategies ensure that
+                                <p style="font-size: 25px;">Maximize exposure for your property. Our innovative
+                                    marketing strategies ensure that
                                     your property stands out to potential buyers and tenants, creating more
                                     opportunities and attracting the right audience.</p>
                             </div>
@@ -273,7 +279,8 @@
                             </div>
                             <div class="feature-content">
                                 <h2 class="title">Negotiating Deals</h2>
-                                <p>Whether you're buying, selling, or leasing, our expert negotiators ensure that you
+                                <p style="font-size: 25px;">Whether you're buying, selling, or leasing, our expert
+                                    negotiators ensure that you
                                     secure the best deals. We prioritize our clients’ interests, working tirelessly to
                                     get favorable terms and successful outcomes.</p>
                             </div>
@@ -287,7 +294,8 @@
                             </div>
                             <div class="feature-content">
                                 <h2 class="title">Guiding Clients Through the Process</h2>
-                                <p>With over a decade of experience, we provide expert guidance throughout every step of
+                                <p style="font-size: 25px;">With over a decade of experience, we provide expert
+                                    guidance throughout every step of
                                     the property transaction process, from initial consultation to closing. Our team is
                                     dedicated to making your buying, selling, or leasing journey as smooth as possible.
                                 </p>
